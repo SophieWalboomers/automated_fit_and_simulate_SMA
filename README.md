@@ -19,7 +19,7 @@ and simulate the SMA model using these personalized characteristics.
 
 ## ▶️ Getting Started
 1. Add the Library folder to the Path (Home > Set Path)
-2. Follow the steps in 'fit_and_simulate_livescript.mlx`
+2. Follow the steps in `fit_and_simulate_livescript.mlx`
 
 ### Prerequisites
 
