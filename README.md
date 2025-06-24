@@ -13,7 +13,7 @@ and simulate the SMA model using these personalized characteristics.
 
 ## 📂 Project Structure
 
-- 'fit_and_simulate_livescript.mlx` – Entry point for fitting and simulating, the steps for running are outlined in the file
+- `fit_and_simulate_livescript.mlx` – Entry point for fitting and simulating, the steps for running are outlined in the file
 - `fit_and_simulate.m` – Helper functions for parameter fitting and simulating
 - `Library/` – Library containing combination functions for the SMA Model
 
